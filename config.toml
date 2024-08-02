@@ -14,7 +14,7 @@ path = "/trojan"
 password = "Strong|Pass"
 
 [outbound]
-addresses = []
-port = 0
 protocol = "freedom"
-match = []
+match = [
+    "0.0.0.0/0"
+]
