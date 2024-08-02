@@ -16,5 +16,5 @@ password = "Strong|Pass"
 [outbound]
 addresses = []
 port = 0
-protocol = "Freedom"
+protocol = "freedom"
 match = []
